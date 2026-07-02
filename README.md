@@ -81,7 +81,7 @@ The trained model was evaluated on the MNIST test dataset.
 ```text
 MNIST-Digit-Classifier/
 │
-├── mnist_classifier.ipynb
+├── MNISTDigitRecognition.ipynb
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
